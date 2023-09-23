@@ -29,6 +29,6 @@ Here's a glimpse of the key insights unveiled by the dashboard:
 4. Education Field Wise Attrition:- This shows from which education field employees are leaving mostly.
 
 5. Avg of Monthly income by job role and gender.
-6. 
+   
 This project is a testament to the power of data-driven decision-making in human resources. It empowers organizations to identify critical factors influencing attrition and implement proactive strategies to retain top talent.
 
